@@ -88,9 +88,13 @@
 >lib
 >
 >>index.js - 主流程控制
+
 >>Segment.js - 分词函数
+
 >>Translate.js - 翻译函数
+
 >>Antonym.js - 反义词转换函数
+
 >>jquery.min.js
 >
 >Dic
