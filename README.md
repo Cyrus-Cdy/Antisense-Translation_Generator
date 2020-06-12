@@ -88,22 +88,28 @@
 >lib
 >
 >>index.js - 主流程控制
-
+>>
 >>Segment.js - 分词函数
-
+>>
 >>Translate.js - 翻译函数
-
+>>
 >>Antonym.js - 反义词转换函数
-
+>>
 >>jquery.min.js
 >
 >Dic
 >
 >>Dic_1.js - 30w
+>>
 >>Dic_2.js - word词库
+>>
 >>Dic_3.js - IK词库
+>>
 >>Dic_4.js - jieba词库
+>>
 >>Dic_Usr.js - 自定义分词词库
+>>
 >>Lexicon_Usr.js - 自定义反义词库
+>>
 >>Lexicon.js - 反义词库（内容不太全）
 
